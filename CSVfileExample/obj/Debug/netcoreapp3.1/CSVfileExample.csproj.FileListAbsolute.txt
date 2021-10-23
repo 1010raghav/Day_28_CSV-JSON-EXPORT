@@ -1,0 +1,17 @@
+E:\bidgelabz\CSVfileExample\CSVfileExample\obj\Debug\netcoreapp3.1\CSVfileExample.csproj.AssemblyReference.cache
+E:\bidgelabz\CSVfileExample\CSVfileExample\obj\Debug\netcoreapp3.1\CSVfileExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\bidgelabz\CSVfileExample\CSVfileExample\obj\Debug\netcoreapp3.1\CSVfileExample.AssemblyInfoInputs.cache
+E:\bidgelabz\CSVfileExample\CSVfileExample\obj\Debug\netcoreapp3.1\CSVfileExample.AssemblyInfo.cs
+E:\bidgelabz\CSVfileExample\CSVfileExample\obj\Debug\netcoreapp3.1\CSVfileExample.csproj.CoreCompileInputs.cache
+E:\bidgelabz\CSVfileExample\CSVfileExample\bin\Debug\netcoreapp3.1\CSVfileExample.exe
+E:\bidgelabz\CSVfileExample\CSVfileExample\bin\Debug\netcoreapp3.1\CSVfileExample.deps.json
+E:\bidgelabz\CSVfileExample\CSVfileExample\bin\Debug\netcoreapp3.1\CSVfileExample.runtimeconfig.json
+E:\bidgelabz\CSVfileExample\CSVfileExample\bin\Debug\netcoreapp3.1\CSVfileExample.runtimeconfig.dev.json
+E:\bidgelabz\CSVfileExample\CSVfileExample\bin\Debug\netcoreapp3.1\CSVfileExample.dll
+E:\bidgelabz\CSVfileExample\CSVfileExample\bin\Debug\netcoreapp3.1\CSVfileExample.pdb
+E:\bidgelabz\CSVfileExample\CSVfileExample\bin\Debug\netcoreapp3.1\CsvHelper.dll
+E:\bidgelabz\CSVfileExample\CSVfileExample\obj\Debug\netcoreapp3.1\CSVfileExample.csproj.CopyComplete
+E:\bidgelabz\CSVfileExample\CSVfileExample\obj\Debug\netcoreapp3.1\CSVfileExample.dll
+E:\bidgelabz\CSVfileExample\CSVfileExample\obj\Debug\netcoreapp3.1\CSVfileExample.pdb
+E:\bidgelabz\CSVfileExample\CSVfileExample\obj\Debug\netcoreapp3.1\CSVfileExample.genruntimeconfig.cache
+E:\bidgelabz\CSVfileExample\CSVfileExample\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
